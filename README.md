@@ -3,7 +3,9 @@
 Kevilyn/Kevilyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## Oiii eu sou a Kevilyn Domingos!
+
+
+## Oiii eu sou a Kevilyn Domingos! Ainda começando na programação :P
 <div align="center">
   <a href="https://github.com/Kevilyn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kevilyn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -29,4 +31,15 @@ You can click the Preview link to take a look at your changes.
  
 </div>
 
-  ##
+##
+##
+
+<h2 align="center">
+  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+</h2>
+<p align="center">
+  <img src="https://github.com/Kevilyn/Kevilyn/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
+##
+
